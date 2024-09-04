@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FilterExcel.Api.props" />
+</Project>
